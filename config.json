@@ -1,0 +1,4 @@
+{
+  "sessionTTLHours": 336,
+  "purgeSessionStorageIntervalHours": 12
+}
