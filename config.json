@@ -1,4 +1,5 @@
 {
   "sessionTTLHours": 336,
-  "purgeSessionStorageIntervalHours": 12
+  "purgeExpiredSessionIntervalHours": 12,
+  "secretKey": "some secrete key"
 }
